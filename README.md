@@ -46,3 +46,21 @@ Como converter ciclistas casuais em membros anuais?
 `Conjunto de dados:` O conjunto de dados está disponível publicamente em [Dados Cyclistic 2019](https://divvy-tripdata.s3.amazonaws.com/index.html).
 >Foram utilizados dados públicos referente ao ano de 2019, disponibilizados pela Motivate International Inc.(sob licença). Contudo as questões de privacidade dos dados, proíbem o uso informações pessoais que possam identificar os usuários da plataforma. Desta maneira não estão disponíveis o acesso aos dados sensíveis de compras para poder determinar a forma com que os usuários casuais utilizam a plataforma.  
 
+---
+<!-- Gráfico Donuts -->
+<img src="https://user-images.githubusercontent.com/89171693/154495214-30f72fe1-53e3-4541-a38f-c44ee1f78f32.jpg" width="100%">
+<!-- Gráfico tempo médio da duração de viagens -->
+<img src="https://user-images.githubusercontent.com/89171693/154495220-70812e5d-f206-4a3b-9504-2f3568a5eb25.jpg" width="100%">
+<!-- Gráfico comparação do número de viagens realizadas -->
+<img src="https://user-images.githubusercontent.com/89171693/154495223-95183436-881e-4a10-992c-cf99b265fc36.jpg" width="100%">
+<!-- Gráfico compração do número de viagens em relação a cada tipo de membro -->
+<img src="https://user-images.githubusercontent.com/89171693/154495225-e69f8b7e-8359-42ea-b626-09f1f34fabc8.jpg" width="100%">
+<!-- Gráfico compração do número de viagens realizadas semanalmente -->
+<img src="https://user-images.githubusercontent.com/89171693/154495228-7cee9075-aec7-4aeb-9df9-b95553eaefac.jpg" width="100%">
+<!-- Gráfico comparação do número de viagens relizadas a cada mês -->
+<img src="https://user-images.githubusercontent.com/89171693/154499313-7621e4c6-c9f1-468f-8636-70cdcf176417.jpg" width="100%">
+<!-- Gráfico comparação do número de viagens realizadas mensalmente -->
+<img src="https://user-images.githubusercontent.com/89171693/154495232-7eb81072-3770-454f-a501-0d1b321da61a.jpg" width="100%">
+<!-- Gráfico relação da duração de viagens comparado por tipo de membro -->
+<img src="https://user-images.githubusercontent.com/89171693/154497041-a386c53d-d82b-4ee6-9578-f6c8c9c05442.jpg" width="100%">
+
