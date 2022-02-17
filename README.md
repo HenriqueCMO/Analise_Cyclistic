@@ -62,5 +62,5 @@ Como converter ciclistas casuais em membros anuais?
 <!-- Gráfico comparação do número de viagens realizadas mensalmente -->
 <img src="https://user-images.githubusercontent.com/89171693/154495232-7eb81072-3770-454f-a501-0d1b321da61a.jpg" width="100%">
 <!-- Gráfico relação da duração de viagens comparado por tipo de membro -->
-<img src="https://user-images.githubusercontent.com/89171693/154497041-a386c53d-d82b-4ee6-9578-f6c8c9c05442.jpg" width="100%">
+<img src="https://user-images.githubusercontent.com/89171693/154500875-430e0ae0-7380-472e-b79b-388bbda5c881.jpg" width="100%">
 
